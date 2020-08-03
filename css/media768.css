@@ -1,0 +1,147 @@
+@media (max-width: 768px) {
+  .navbar {
+    width: 100%;
+  }
+
+  .logo_href {
+    display: none;
+  }
+
+  nav {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .content {
+    margin: 3em 4em;
+  }
+
+  .banner {
+    height: 200px;
+  }
+  .banner--title {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 100;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: Dosis;
+    letter-spacing: 2.4px;
+  }
+
+  .flex-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+  }
+
+  .flex-box_img {
+    width: 100%;
+  }
+
+  .flex-box_img img {
+    width: 100%;
+  }
+  .flex-box_img_left {
+    margin: 0;
+  }
+
+  .flex-box_img_right {
+    margin: 0;
+  }
+
+  .flex-box_content {
+    width: 100%;
+    flex-direction: column;
+    text-align: -webkit-center;
+  }
+
+  .flex-box_content h3 {
+    text-align: center;
+    color: #282828;
+    margin-top: 1em;
+  }
+
+  .flex-box_content p {
+    font-size: 0.9em;
+  }
+
+  .flex-box_second {
+    display: flex;
+    justify-content: space-around;
+    margin: 3em 7em;
+  }
+
+  .flex-column {
+    flex-direction: column !important;
+    margin-bottom: 2%;
+  }
+  #myBtnContainer {
+    margin-top: 2em !important;
+  }
+
+ 
+  .img-box_flex {
+    flex-wrap:inherit;
+  }
+  .img-box_flex {
+    height: 180px;
+  }
+
+  .row :nth-child(2n){
+    display: none;
+  }
+
+
+  .img-box_flex .img-box .contentBx {
+    padding: 15% 10%;
+  }
+  .contentBx q {
+    font-size: 0.8em;
+  }
+
+  .contentBx p{
+    font-size: 0.6em;
+  }
+
+  .column {
+    width: 50%;
+  }
+
+  .brend-logo {
+    justify-content: center;
+  }
+
+  .brend-text {
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+  }
+
+  .info {
+    flex-direction: column;
+    text-align: justify;
+    align-items: center;
+  }
+
+
+  .info .contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .info .contacts h4 {
+    text-align: center;
+    margin-top: 1em;
+  }
+
+  .copyright {
+    width: 15%;
+  }
+
+}

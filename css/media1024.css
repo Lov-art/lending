@@ -1,0 +1,206 @@
+@media screen and (max-width: 1024px) {
+  nav {
+    margin-left: 90px;
+  }
+
+  nav a {
+    font-size: 0.8em;
+  }
+
+  .banner {
+    height: 200px;
+  }
+
+  .banner--title {
+    font-size: 2.5rem;
+  }
+
+  .svg-box {
+    display: none;
+  }
+
+  .content {
+    margin: 5em 5em;
+  }
+
+  .flex-box_second {
+    margin: -5px 20% 20px 20%;
+    flex-wrap: wrap;
+  }
+
+  .statistics h2 {
+    font-size: 2em;
+  }
+
+  .count {
+    width: calc(50% - 6.5px);
+    margin-top: 25px;
+  }
+
+  .circle_icon {
+    margin-top: 25px;
+  }
+
+  .circle_icon:nth-of-type(2n) {
+    display: none;
+  }
+
+  .img-box_flex {
+    height: 290px;
+  }
+
+  .column {
+    width: 50%;
+  }
+
+
+}
+
+@media screen and (max-width: 1200px) {
+  .img-box_flex {
+    height: 275px;
+  }
+
+  .flex-box_content h3 {
+    font-size: 1.6em;
+  }
+
+  .flex-box_content p {
+    font-size: 1em;
+  }
+
+  .bottom a {
+    font-size: 0.8em;
+  }
+
+  .statistics h2 {
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    line-height: 1.59;
+    color: #ffffff;
+    font-size: 2rem;
+  }
+
+  .num { 
+    font-size: 3em;
+  }
+
+  .text {
+    font-size: 1.2em;
+  }
+
+  .slyder-btn {
+    width: 14%;
+  }
+
+  .title-h3 h3 {
+    font-size: 1.6em;
+  }
+
+  .btn {
+    font-size: 0.8em;
+  }
+
+  .brend-name {
+    font-size: 2em;
+  }
+
+  .brend-text {
+    width: 90%;
+    font-size: 1em;
+  }
+
+  .copyright {
+    width: 11%;
+  }
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 1400px) {
+  .ban-svg1 {
+      top: 280px;
+      left: 400px;
+  }
+    
+  .ban-svg2 {
+      top: 320px;
+      left: 295px;
+  }
+    
+  .ban-svg3 {
+      top: 375px;
+      left: 375px;
+  }
+    
+  .ban-svg4 {
+      top: 280px;
+      right: 400px;
+  }
+    
+  .ban-svg5 {
+      top: 320px;
+      right: 330px;
+  }
+    
+  .ban-svg6 {
+    top: 420px;
+    right: 365px;
+  }
+   
+  .num {
+    font-size: 3em;
+  }
+  
+  .text {
+    font-size: 1em;
+  }
+
+
+
+  .copyright {
+      width: 11%;
+  }
+}
+
+@media (max-width: 1550px) {
+.ban-svg1 {
+    top: 280px;
+    left: 400px;
+  }
+  
+  .ban-svg2 {
+    top: 320px;
+    left: 295px;
+  }
+  
+  .ban-svg3 {
+    top: 375px;
+    left: 375px;
+  }
+  
+  .ban-svg4 {
+    top: 280px;
+    right: 400px;
+  }
+  
+  .ban-svg5 {
+    top: 320px;
+    right: 330px;
+  }
+  
+  .ban-svg6 {
+    top: 420px;
+    right: 365px;
+  }
+
+  .img-box_flex {
+    height: 275px;
+}
+}
